@@ -23,25 +23,25 @@
     1) Prepare data from "공공데이터 포탈" (https://www.data.go.kr/data/15083277/fileData.do).  
     2) Install Numpy, Pandas, Tkinter, Matplotlib, Webbrowser, Pillow library.  
 
-### 3. data_processing Process  
+### 3. File1: data_processing Process  
     1) process data from "국민연금공단_국민연금 가입 사업장 내역".  
     2) Extract information number of workplace, regional, year and save xlsx file.  
     3) Make transition graph from data.  
 
-### 4. ui Process
+### 4. File2: ui Process  
     1) Make user interface program.  
     2) Link to map information by Choropleth.  
 
-### 5. business_type_handling Process  
+### 5. File3: business_type_handling Process  
     1) Data processing and visualization with classifyed business type data.
   
-### 6. folium_visualization Process  
+### 6. File4: folium_visualization Process    
     1) Visualize with folium Map and show regional graph.  
 
-### 7. regional_handling Process  
+### 7. File5: regional_handling Process   
     1) extract and classify by region from whole data.  
 
-### 8. small_business_visualization Process
+### 8. File6: small_business_visualization Process  
     1) special analayzation about small business transition.  
 
 ### 9. Language  
